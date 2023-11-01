@@ -1,6 +1,22 @@
 .App {
   text-align: center;
 }
+/* Add this CSS to your stylesheets */
+.heading {
+  font-size: 80px;
+  font-weight: bold;
+  color: #4caf50;
+  text-align: center;
+  margin-bottom: 30px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-decoration: underline; /* Add underline to the text */
+}
+
+.navbar{
+  display: flex;
+  justify-content: center;
+}
+
 
 .App-logo {
   height: 40vmin;
